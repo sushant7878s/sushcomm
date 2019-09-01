@@ -1,0 +1,80 @@
+body
+{
+background-image: url("rise.jpg");
+background-size : 2000px 1000px;
+}
+img
+{
+border-radius : 50%;
+width : 250px;
+height :250;
+}
+h1
+{
+color : orange;
+text-decoration : underline;
+font-family : algerian;
+padding : 9px;
+background-color : black;
+font-size : 45px;
+}
+h2
+{
+background-color : orange;
+font-size : 35px;
+font-family : courier ;
+text-transform : uppercase;
+}
+
+p.first : hover{
+background-color : white;
+}
+
+p.first
+{
+color : grey ;
+text-align : left;
+font-size : 45px;
+padding-top : 300px;
+font-family : cursive;
+text-transform : uppercase;
+
+}
+p.second
+{
+color : green ;
+text-align : right;
+font-size : 45px;
+padding-top : 300px;
+font-family : cursive;
+text-transform : uppercase;
+} 
+.box{
+
+transition : transform 0.2s;
+}
+.box: hover
+{
+transform : scale (1.2);
+}
+h3
+{
+text-align : center;
+font-size : 60px;
+font-family: fantasy;
+color : orange ;
+}
+button1
+{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size : 40px;
+  } 
+ image2
+{
+padding-top : 300px;
+} 

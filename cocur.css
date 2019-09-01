@@ -1,0 +1,82 @@
+body
+{
+background-image: url("fly.jpg");
+background-size : 2000px 1100px;
+}
+img
+{
+border-radius : 50%;
+width : 250px;
+height :250;
+}
+h1
+{
+color : orange;
+text-decoration : underline;
+font-family : algerian;
+padding : 15px;
+background-color : black;
+font-size : 50px;
+}
+h2
+{
+background-color : orange;
+font-size : 35px;
+font-family : courier ;
+text-transform : uppercase;
+}
+
+p.first : hover{
+background-color : white;
+}
+
+p.first
+{
+color : white ;
+text-align : left;
+font-size : 35px;
+padding-top : 19px;
+font-family : cursive;
+text-transform : lowercase;
+
+}
+p.trek
+{
+color : white ;
+text-align : left;
+font-size : 35px;
+padding-top : 19px;
+font-family : cursive;
+text-transform : lowercase;
+} 
+
+h3
+{
+text-align : center;
+font-size : 60px;
+font-family: fantasy;
+color : orange ;
+}
+button1
+{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size : 40px;
+  } 
+ image2
+{
+padding-top : 300px;
+} 
+p.third
+{
+color : grey ;
+text-align : left;
+font-size : 35px;
+padding-top : 19px;
+font-family : cursive;
+text-transform : lowercase;
+}

@@ -1,0 +1,55 @@
+body
+{
+background-image: url("blackb.png");
+background-size : 2100px 630px;
+}
+img
+{
+border-radius : 10%;
+width : 25px;
+height :25px;
+}
+h1
+{
+color : orange;
+text-decoration : underline;
+font-family : algerian;
+padding : 20px;
+background-color : black;
+font-size : 50px;
+}
+h2
+{
+background-color : orange;
+font-size : 35px;
+font-family : courier ;
+text-transform : uppercase;
+}
+p.first
+{
+color : grey ;
+text-align : left;
+font-size : 45px;
+padding-top : 300px;
+font-family : cursive;
+text-transform : lowercase;
+}
+p.second
+{
+font-style : oblique;
+padding-top : 500px;
+color : black ;
+text-align : center;
+font-size : 30px;
+padding-top : 30px;
+font-family : serif;
+text-transform : lowercase;
+padding-left :420px
+} 
+h4
+{
+text-align : center;
+font-size : 60px;
+font-family: fantasy;
+color : orange ;
+}
